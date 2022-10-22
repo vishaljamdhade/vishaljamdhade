@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science Community
 - 🌱 I’m currently learning M.Sc in Statistics
 - 💞️ I’m looking for a job as a Data Scientist/Data Analyst
-- 📫 You can connect with me on linkedin on naukari.com
+- 📫 You can connect with me on linkedin or naukari.com
 
 <!---
 vishaljamdhade/vishaljamdhade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
